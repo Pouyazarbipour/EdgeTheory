@@ -1,3 +1,5 @@
+%% POUYA ZARBIPOUR LAKPOSHTEH EMAIL: pouyazarbipour@gmail.com
+
 function EdgeTheory
     % Initialize the GUI
     fig = figure('Name', 'Wave Calculator', 'NumberTitle', 'off', ...
